@@ -35,4 +35,8 @@
     <string name="wallpaper_type_both">Домашний и экран блокировки</string>
     <string name="wallpaper_type_system">Домашний экран</string>
     <string name="wallpaper_type_lock">Экран блокировки</string>
+    <string name="scrolling_wall_dialog_text">Выполнить обрезку обоев по размеру экрана\u003f</string>
+    <string name="scrolling_wall_dialog_title">Обрезать обои</string>
+    <string name="scrolling_wall_yes">Нет</string>
+    <string name="scrolling_wall_no">Да</string>
 </resources>
